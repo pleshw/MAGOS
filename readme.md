@@ -2,7 +2,9 @@
 # **MAGOS PROJECT**
 
 # **About**
-MAGOS Provide functions, user interface and tools for visualizing the process of generation and solving of a perfect maze, created with a set of given configurations. This project work with lots of important concepts in programming such as data structures( stacks,sets lists... ), object-oriented programming, file reading, API handling, code documentation and project modules.
+MAGOS Provide functions, user interface and tools for visualizing the process of generation and solving of a perfect maze, created with a set of given configurations. This project work with lots of important concepts in programming such as data structures( stacks,sets, lists,hash-table... ), object-oriented programming, file reading, API handling, code documentation and project modules. All the code is in C++ and every module can be individually compiled by entering its build folder and using `make` at linux terminal. 
+
+The main project is at /magos_build folder and the makefile target all individual modules and libs.
 
 # **Important**
 
