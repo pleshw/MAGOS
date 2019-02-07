@@ -1,11 +1,13 @@
 
 # **MAGOS PROJECT**
+MAGOS PROVIDE FUNCTIONS, USER INTERFACE AND TOOLS FOR VISUALIZING THE PROCESS OF GENERATION AND SOLVING OF A PERFECT MAZE, SETTED WITH GIVEN CONFIGURATIONS. THIS PROJECT WORK WITH DATA STRUCTURES SUCH AS STACKS, LISTS AND SETS, OBJECT-ORIENTED PROGRAMMING AND CODE DOCUMENTATION.
 
-***EVERY CONFIGURATION SHOULD BE AT  `setup.txt` .***
 
-***THE ORDER OF ANY CONFIGURATION DOESN'T MATTER BUT ALL OF THEM NEED TO BE SETTED IN THIS VERSION.***
+**Every configuration should be at:  `setup.txt` .**
 
-***ON SETUP FILE EACH CONFIG NEEDS TO BE FOLLOWED BY ':' AND THE FIRST VALUE NEXT TO IT IS THE VALUE OF THAT CONFIGURATION.***
+**The individual config order doesn't matter since my ConfigFileReader can handle it but all the setup needs to be setted.**
+
+**On setup file each config have to be followed by the symbol ':', the very first value after that symbol is setted as the value for that configuration.**
 
 **INVALID CONFIGURATION RESULT IN SEGMENTATION FAULT OR INFINITE TRIALS OF SETTING UP VARIABLES.**
 > **Note:** Invalid configurations is any config that makes drawing impossible. Ex: canvasWidth: -1.
