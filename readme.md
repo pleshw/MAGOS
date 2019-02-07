@@ -1,6 +1,8 @@
 
 # **MAGOS PROJECT**
-MAGOS PROVIDE FUNCTIONS, USER INTERFACE AND TOOLS FOR VISUALIZING THE PROCESS OF GENERATION AND SOLVING OF A PERFECT MAZE, SETTED WITH GIVEN CONFIGURATIONS. THIS PROJECT WORK WITH DATA STRUCTURES SUCH AS STACKS, LISTS AND SETS, OBJECT-ORIENTED PROGRAMMING AND CODE DOCUMENTATION.
+
+# **About**
+MAGOS Provide functions, user interface and tools for visualizing the process of generation and solving of a perfect maze, created with a set of given configurations. This project work with lots of important concepts in programming such as data structures( stacks,sets lists... ), object-oriented programming, code documentation and project modules.
 
 
 **Every configuration should be at:  `setup.txt` .**
