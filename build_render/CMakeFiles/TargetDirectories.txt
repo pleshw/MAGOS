@@ -1,0 +1,3 @@
+/root/MAGOS/build_render/CMakeFiles/rebuild_cache.dir
+/root/MAGOS/build_render/CMakeFiles/render.dir
+/root/MAGOS/build_render/CMakeFiles/edit_cache.dir

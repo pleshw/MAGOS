@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/MAGOS/dev_maze/../libs/common.h
+cstring
+-
+iostream
+-
+
+/root/MAGOS/dev_maze/include/maze.h
+iostream
+-
+memory
+-
+cstring
+-
+stdexcept
+-
+common.h
+/root/MAGOS/dev_maze/include/common.h
+
+/root/MAGOS/dev_maze/src/maze.cpp
+../include/maze.h
+/root/MAGOS/dev_maze/include/maze.h
+

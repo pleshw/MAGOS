@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -pedantic    CMakeFiles/dmaze.dir/src/maze.cpp.o  -o dmaze 

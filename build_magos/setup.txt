@@ -1,0 +1,29 @@
+
+canvasWidth: 800
+canvasHeight: 600
+canvasPaddingTop: 20
+canvasPaddingLeft: 80
+
+startFlagIndex: 0
+endFlagIndex: 899
+startFlagMargin: 6
+endFlagMargin: 6
+
+checkingFlagMargin: 6
+visitedFlagMargin: 8
+discardedFlagMargin: 10
+
+mazeRows: 30
+mazeCols: 30
+
+wallThickness: 2
+
+outputBuilding: builder/building_
+outputSolver: solver/solving_
+
+#REMEMBER - WHEN CHANGE THE NUMBER OF ROWS AND COLS ALSO CHANGE THE FLAGS INDEX.
+
+#	THE ORDER OF ANY CONFIGURATION DOESN'T MATTER BUT ALL OF THEM NEED TO BE SETTED
+IN THIS VERSION.
+
+# INVALID CONFIGURATION RESULT IN SEGMENTATION FAULT OR INFINITE TRIALS OF SETTING UP VARIABLES.

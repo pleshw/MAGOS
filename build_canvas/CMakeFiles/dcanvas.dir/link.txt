@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -pedantic    CMakeFiles/dcanvas.dir/src/canvas.cpp.o CMakeFiles/dcanvas.dir/src/driver_canvas.cpp.o  -o dcanvas 

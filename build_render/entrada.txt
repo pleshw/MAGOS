@@ -1,0 +1,8 @@
+canvasWidth: 800
+canvasHeight: 600
+canvasPaddingTop: 50
+canvasPaddingLeft: 50
+mazeRows: 6
+mazeCols: 6
+wallThickness: 2
+output: drawing.png

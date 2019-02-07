@@ -1,0 +1,3 @@
+/root/MAGOS/build_builder/CMakeFiles/rebuild_cache.dir
+/root/MAGOS/build_builder/CMakeFiles/build_maze.dir
+/root/MAGOS/build_builder/CMakeFiles/edit_cache.dir

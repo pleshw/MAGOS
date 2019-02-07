@@ -1,0 +1,3 @@
+/root/MAGOS/build_canvas/CMakeFiles/rebuild_cache.dir
+/root/MAGOS/build_canvas/CMakeFiles/dcanvas.dir
+/root/MAGOS/build_canvas/CMakeFiles/edit_cache.dir
